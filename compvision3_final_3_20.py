@@ -10,7 +10,6 @@ NAME: Andrew Whitmill
 ID: 1001839036
 
 References:
- - Code given in the assignment as a starting point
  - https://www.datacamp.com/tutorial/pytorch-cnn-tutorial
  - https://pub.towardsai.net/cnns-and-transfer-learning-with-pytorch-from-image-features-to-pre-trained-models-e45ba0f21d9d
 
