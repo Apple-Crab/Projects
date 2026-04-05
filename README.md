@@ -35,14 +35,6 @@ Machine Learning, Natural Language Processing, Computer Vision, Systems Programm
 
 ---
 
-### Compiler Project *(In Progress)*
-
-* Building a compiler for a custom programming language
-* Implementing lexical analysis, parsing, and code generation
-* Focused on core systems and language design concepts
-
----
-
 ### Computer Vision Projects
 
 * Developed image processing workflows using various libraries
@@ -64,13 +56,6 @@ Machine Learning, Natural Language Processing, Computer Vision, Systems Programm
 
 * Manage and maintain operational data in SQL databases
 * Ensure data accuracy for billing and reporting processes
-
----
-
-## Languages
-
-* English (Native)
-* German (A2)
 
 ---
 
