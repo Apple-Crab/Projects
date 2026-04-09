@@ -53,7 +53,7 @@ Machine Learning, Natural Language Processing, Computer Vision, Systems Programm
 ## Contact Me
 
 * Email: [awhitmill01@gmail.com](mailto:awhitmill01@gmail.com)
-* LinkedIn: [linkedin.com/in/andrew-whitmill](https://www.linkedin.com/in/andrew-whitmill-3588843b4/)
+* LinkedIn: [linkedin.com/in/andrew-whitmill](https://www.linkedin.com/in/andrew-whitmill/)
 
 ---
 
