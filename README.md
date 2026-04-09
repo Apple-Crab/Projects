@@ -50,19 +50,10 @@ Machine Learning, Natural Language Processing, Computer Vision, Systems Programm
 
 ---
 
-## Experience
-
-**Data Entry Specialist — Reaper’s Haulers**
-
-* Manage and maintain operational data in SQL databases
-* Ensure data accuracy for billing and reporting processes
-
----
-
 ## Contact Me
 
 * Email: [awhitmill01@gmail.com](mailto:awhitmill01@gmail.com)
-* GitHub: https://github.com/Apple-Crab
+* LinkedIn: [linkedin.com/in/andrew-whitmill](https://www.linkedin.com/in/andrew-whitmill-3588843b4/)
 
 ---
 
