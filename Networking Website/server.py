@@ -18,11 +18,11 @@ def get_content_type(filename):
     if filename.endswith(".html"):
         return "text/html"
     elif filename.endswith(".jpg") or filename.endswith(".jpeg"):
-        return "Welcome/jpeg"
+        return "image/jpeg"
     elif filename.endswith(".png"):
-        return "Welcome/png"
+        return "image/png"
     elif filename.endswith(".gif"):
-        return "Welcome/gif"
+        return "image/gif"
     else:
         return "application/octet-stream"
 
